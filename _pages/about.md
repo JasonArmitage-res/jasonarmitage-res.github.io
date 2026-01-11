@@ -21,6 +21,6 @@ My name is Jason and I research multimodal machine learning and embodied AI at t
 
 At doctoral level, my work focused on methods to align visual and linguistic inputs for embodied AI and cross-modal reasoning on and generation of 3D assets. Prior to UZH, I conducted research on multimodal machine learning at the University of Bonn and worked in digital product development teams at the BBC and Disney on digital video services, games, and mobile apps.
 
-Right now, I am working on creating evaluations for large multimodal AI systems on tasks set in the physical world, cross-modal agent-based pipelines to improve accessibility to scientific data, and designing algorithms to assist 2D VLMs to reason over 3D scenes.
+Right now, I am working on creating evaluations for large multimodal AI systems on tasks set in the physical world, cross-modal agent-based pipelines to improve accessibility to scientific data, and designing algorithms to assist 2D vision-language models to reason over 3D scenes.
 
 
