@@ -10,6 +10,7 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
+<!-- Project cards are auto-generated from _projects, sorted by front matter importance, and project images live in assets/img/. -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

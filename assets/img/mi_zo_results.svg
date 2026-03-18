@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#f3efe8"/>
+  <rect x="40" y="40" width="1120" height="620" rx="28" fill="#fffdf9" stroke="#7f6a4a" stroke-width="4"/>
+  <text x="90" y="150" fill="#4a3b27" font-family="Helvetica, Arial, sans-serif" font-size="58" font-weight="700">GeoProperties-3DS results</text>
+  <text x="90" y="220" fill="#4a3b27" font-family="Helvetica, Arial, sans-serif" font-size="30">Placeholder for the main benchmark comparison or error-rate result figure.</text>
+  <line x1="145" y1="545" x2="1045" y2="545" stroke="#7f6a4a" stroke-width="6"/>
+  <line x1="145" y1="545" x2="145" y2="285" stroke="#7f6a4a" stroke-width="6"/>
+  <rect x="260" y="420" width="150" height="125" fill="#ccb999"/>
+  <rect x="520" y="335" width="150" height="210" fill="#9cae8a"/>
+  <rect x="780" y="280" width="150" height="265" fill="#6b8d73"/>
+  <text x="265" y="590" fill="#4a3b27" font-family="Helvetica, Arial, sans-serif" font-size="24">baseline</text>
+  <text x="525" y="590" fill="#4a3b27" font-family="Helvetica, Arial, sans-serif" font-size="24">controller</text>
+  <text x="790" y="590" fill="#4a3b27" font-family="Helvetica, Arial, sans-serif" font-size="24">MI-ZO + ctrl</text>
+  <text x="90" y="630" fill="#6a573d" font-family="Helvetica, Arial, sans-serif" font-size="26">Replace with the final results chart in assets/img/ when figures are ready.</text>
+</svg>

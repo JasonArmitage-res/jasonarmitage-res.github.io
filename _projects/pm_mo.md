@@ -3,7 +3,7 @@ layout: page
 title: pm+mo
 description: training multimodal systems with multiple objectives
 img: assets/img/two_meshes_clean_flat_1.png
-importance: 3
+importance: 4
 category: papers
 ---
 {% raw %}

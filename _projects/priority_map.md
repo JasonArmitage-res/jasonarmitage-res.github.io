@@ -3,7 +3,7 @@ layout: page
 title: priority map
 description: a priority map module for vision-and-language navigation #a project with a background image
 img: assets/img/pri_nav_thumb_1.png
-importance: 1
+importance: 2
 category: papers
 ---
 {% raw %}

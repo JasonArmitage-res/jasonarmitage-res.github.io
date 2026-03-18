@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#f3ead8"/>
+  <rect x="40" y="40" width="1120" height="620" rx="28" fill="#fffaf0" stroke="#8d5f2a" stroke-width="4"/>
+  <text x="90" y="165" fill="#3d2d18" font-family="Helvetica, Arial, sans-serif" font-size="66" font-weight="700">MI-ZO</text>
+  <text x="90" y="235" fill="#3d2d18" font-family="Helvetica, Arial, sans-serif" font-size="34">multi-information for 3D viewpoint control</text>
+  <line x1="90" y1="285" x2="1110" y2="285" stroke="#d5b58c" stroke-width="4"/>
+  <text x="90" y="365" fill="#5f4a2d" font-family="Helvetica, Arial, sans-serif" font-size="42">Thumbnail placeholder</text>
+  <text x="90" y="430" fill="#5f4a2d" font-family="Helvetica, Arial, sans-serif" font-size="28">Replace this file in assets/img/ with the final project card image.</text>
+  <circle cx="975" cy="385" r="92" fill="#d9c39e"/>
+  <circle cx="975" cy="385" r="58" fill="#fffaf0" stroke="#8d5f2a" stroke-width="4"/>
+  <path d="M975 315 L975 455 M905 385 L1045 385" stroke="#8d5f2a" stroke-width="8" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#edf2ea"/>
+  <rect x="40" y="40" width="1120" height="620" rx="28" fill="#fbfdf9" stroke="#5f7f63" stroke-width="4"/>
+  <text x="90" y="150" fill="#274229" font-family="Helvetica, Arial, sans-serif" font-size="58" font-weight="700">MI-ZO overview</text>
+  <text x="90" y="220" fill="#274229" font-family="Helvetica, Arial, sans-serif" font-size="30">Placeholder for the main method or system diagram.</text>
+  <rect x="90" y="290" width="280" height="200" rx="24" fill="#dcead7"/>
+  <rect x="460" y="290" width="280" height="200" rx="24" fill="#dcead7"/>
+  <rect x="830" y="290" width="280" height="200" rx="24" fill="#dcead7"/>
+  <text x="150" y="400" fill="#355738" font-family="Helvetica, Arial, sans-serif" font-size="28">3D scene</text>
+  <text x="530" y="400" fill="#355738" font-family="Helvetica, Arial, sans-serif" font-size="28">MI-ZO metric</text>
+  <text x="885" y="400" fill="#355738" font-family="Helvetica, Arial, sans-serif" font-size="28">View controller</text>
+  <path d="M380 390 L450 390" stroke="#5f7f63" stroke-width="8" stroke-linecap="round"/>
+  <path d="M750 390 L820 390" stroke="#5f7f63" stroke-width="8" stroke-linecap="round"/>
+  <text x="90" y="580" fill="#4d6b50" font-family="Helvetica, Arial, sans-serif" font-size="26">Save the final image in assets/img/ and overwrite this SVG if you want to keep the path.</text>
+</svg>
