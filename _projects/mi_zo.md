@@ -1,7 +1,7 @@
 ---
 layout: page
 title: mi-zo
-description: multi-information for camera control in multi-object 3D scenes
+description: multi-information for camera control in 3D scenes with multiple objects
 img: assets/img/geo_mizo_id_thumbnail.png
 importance: 1
 category: papers
@@ -93,7 +93,7 @@ BibTeX:
 {% raw %}
 ```
 @misc{armitage2025mizo,
-  title        = {Video and Language Alignment in {2D} Systems for {3D} Multi-object Scenes with Multi-Information Derivative-Free Control},
+  title        = {Video and Language Alignment in 2D Systems for 3D Multi-object Scenes with Multi-Information Derivative-Free Control},
   author       = {Armitage, Jason and Sennrich, Rico},
   year         = {2025},
   eprint       = {2512.24826},
