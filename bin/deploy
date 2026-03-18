@@ -75,19 +75,15 @@ if ! test -z "$(git ls-files --exclude-standard --others)"; then
 fi
 
 # Switch to source branch (creates it if necessary from the current branch)
-if [ `git branch | grep $SRC_BRANCH | tr ' ' '\n' | tail -1` ]
+if git show-ref --verify --quiet "refs/heads/$SRC_BRANCH"
 then
-    git checkout $SRC_BRANCH
+    git checkout "$SRC_BRANCH"
 else
-    git checkout -b $SRC_BRANCH
+    git checkout -b "$SRC_BRANCH"
 fi
 
-# Checkout DEPLOY_BRANCH branch
-if [ `git branch | grep $DEPLOY_BRANCH` ]
-then
-  git branch -D $DEPLOY_BRANCH
-fi
-git checkout -b $DEPLOY_BRANCH
+# Create or reset DEPLOY_BRANCH from SRC_BRANCH using an exact branch name match.
+git checkout -B "$DEPLOY_BRANCH"
 
 # Export JEKYLL_ENV=production
 export JEKYLL_ENV=production
@@ -106,10 +102,10 @@ touch .nojekyll
 # Push to DEPLOY_BRANCH
 git add -fA
 git commit --allow-empty -m "$(git log -1 --pretty=%B) [ci skip]"
-[[ ${NO_PUSH} ]] || git push -f -q origin $DEPLOY_BRANCH
+[[ ${NO_PUSH} ]] || git push -f -q origin "$DEPLOY_BRANCH"
 
 # Move back to SRC_BRANCH
-git checkout $SRC_BRANCH
+git checkout "$SRC_BRANCH"
 
 echo "Deployed successfully!"
 
