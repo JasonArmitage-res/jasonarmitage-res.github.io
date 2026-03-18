@@ -1,7 +1,7 @@
 ---
 layout: page
 title: mi-zo
-description: multi-information for 3D viewpoint control
+description: multi-information for camera control in 3D scenes
 img: assets/img/geo_mizo_seg_icon.png
 importance: 1
 category: papers
