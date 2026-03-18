@@ -451,14 +451,9 @@ footer.sticky-bottom {
   //   margin-bottom: 10px;
   // }
 
-  // 390px was slightly too wide once container padding and Masonry gutter were applied.
-  // .grid-sizer, .grid-item {
-  //   width: 390px;
-  //   margin-bottom: 10px;
-  // }
 
   .grid-sizer, .grid-item {
-    width: 380px;
+    width: 360px;
     margin-bottom: 10px;
   }
 
