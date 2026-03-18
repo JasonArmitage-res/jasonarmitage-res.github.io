@@ -19,13 +19,10 @@ Citation: see end of page.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/front_page_figure_mars_10.svg" title="MI-ZO overview placeholder" class="img-fluid rounded z-depth-1" %}
-        <p>
-            An optimal sequence of viewpoints reduces errors on 3D scenes by a VLM trained on 2D inputs.
-        </p>
     </div>
 </div>
 <div class="caption">
-    Placeholder for the MI-ZO overview figure.
+    An optimal sequence of viewpoints reduces errors on 3D scenes by a VLM trained on 2D inputs
 </div>
 
 The motivating application is planetary science: when generating or analysing 3D reconstructions of Mars, analysis depends on resolving colours and fine-grained surface details. Matching a description to a scene becomes harder when it refers to differences between similar objects such as boulders in the same outcrop.
