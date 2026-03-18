@@ -10,8 +10,6 @@ category: papers
 ```
 Paper: https://arxiv.org/abs/2512.24826
 Project: https://mi-zo.github.io/mi-zo/
-Code: https://mi-zo.github.io/mi-zo/
-Data: https://mi-zo.github.io/mi-zo/
 Citation: see end of page.
 ```
 {% endraw %}
@@ -54,7 +52,7 @@ We assume the number of mistakes made by VLMs is related to scene complexity and
                             <img src="{{ 'assets/img/go_led_cv_score_adj_all_hist.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="GO-LED-OL chart 1" title="GO-LED-OL chart 1" data-zoomable />
                         </div>
                         <div class="col-6">
-                            <img src="{{ 'assets/img/assets/gla_score_all_hist.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="GO-LED-OL chart 2" title="GO-LED-OL chart 2" data-zoomable />
+                            <img src="{{ 'assets/img/gla_score_all_hist.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="GO-LED-OL chart 2" title="GO-LED-OL chart 2" data-zoomable />
                         </div>
                     </div>
                 </div>
@@ -65,7 +63,7 @@ We assume the number of mistakes made by VLMs is related to scene complexity and
                             <img src="{{ 'assets/img/ghled_score_adj_all_hist.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="GH-LED chart 1" title="GH-LED chart 1" data-zoomable />
                         </div>
                         <div class="col-6">
-                            <img src="{{ 'assets/img/assets/gla_score_all_hist.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="GH-LED chart 2" title="GH-LED chart 2" data-zoomable />
+                            <img src="{{ 'assets/img/gla_score_all_hist.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="GH-LED chart 2" title="GH-LED chart 2" data-zoomable />
                         </div>
                     </div>
                 </div>
