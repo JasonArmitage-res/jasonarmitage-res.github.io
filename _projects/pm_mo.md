@@ -1,7 +1,7 @@
 ---
 layout: page
 title: pm+mo
-description: training multimodal systems with multiple objectives
+description: training multimodal systems to generalise with multiple objectives
 img: assets/img/two_meshes_clean_flat_1.png
 importance: 4
 category: papers
