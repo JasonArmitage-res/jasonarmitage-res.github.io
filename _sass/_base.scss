@@ -445,8 +445,14 @@ footer.sticky-bottom {
     }
   }
 
+  // Original project grid width kept here for easy reversion when more cards are added.
+  // .grid-sizer, .grid-item {
+  //   width: 250px;
+  //   margin-bottom: 10px;
+  // }
+
   .grid-sizer, .grid-item {
-    width: 250px;
+    width: 390px;
     margin-bottom: 10px;
   }
 

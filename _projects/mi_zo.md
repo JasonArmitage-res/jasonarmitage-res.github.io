@@ -2,7 +2,7 @@
 layout: page
 title: mi-zo
 description: multi-information for camera control in 3D scenes
-img: assets/img/geo_mizo_seg_icon.png
+img: assets/img/geo_mizo_id_thumbnail.png
 importance: 1
 category: papers
 ---
