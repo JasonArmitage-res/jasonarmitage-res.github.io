@@ -2,7 +2,7 @@
 layout: page
 title: mi-zo
 description: multi-information for 3D viewpoint control
-img: assets/img/mi_zo_thumb.svg
+img: assets/img/geo_prop_icon.svg
 importance: 1
 category: papers
 ---
