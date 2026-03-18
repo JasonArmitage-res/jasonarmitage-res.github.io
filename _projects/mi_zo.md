@@ -2,7 +2,7 @@
 layout: page
 title: mi-zo
 description: multi-information for 3D viewpoint control
-img: assets/img/geo_icon.svg
+img: assets/img/geo_mizo_seg_icon.png
 importance: 1
 category: papers
 ---
@@ -102,7 +102,8 @@ BibTeX:
   eprint       = {2512.24826},
   archivePrefix= {arXiv},
   primaryClass = {cs.CV},
-  doi          = {10.48550/arXiv.2512.24826}
+  doi          = {10.48550/arXiv.2512.24826},
+  note={Accepted for publication at the IEEE/CVF Winter Conference on Applications of Computer Vision 2026}
 }
 ```
 {% endraw %}
