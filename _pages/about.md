@@ -6,7 +6,7 @@ subtitle: <a href='mailto:jason.armitage@uzh.ch'>Affiliation</a> University of Z
 
 profile:
   align: right
-  image: ja_nhm_entrance.jpg
+  image: ja_nhm_zm.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>jason.armitage@uzh.ch</p>
